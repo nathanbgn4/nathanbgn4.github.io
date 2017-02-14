@@ -1,9 +1,9 @@
 
-#home {padding-top:50px;height:1000px;color: #fff; background-color: #1E88E5;}
+#home {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(blue, purple);}
 
-#portfolio {padding-top:50px;height:1000px;color: #fff; background-color: #673ab7;}
+#portfolio {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(purple, red);}
 
-#contact {padding-top:50px;height:1000px;color: #fff; background-color: #ff9800;}
+#contact {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(red, orange);}
 
 .text_modifier{
 	font-family: Monospace;
@@ -14,5 +14,5 @@
 	right: 50px;
 	top: 100px;
 	height: 600px;
-	width: 650px;
+	width: 775px;
 }
