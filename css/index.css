@@ -3,7 +3,7 @@
 
 #portfolio {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(purple, red);}
 
-#contact {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(red, orange);}
+#contact {padding-top:50px;height:500px;color: #fff; background: linear-gradient(red, orange);}
 
 .text_modifier{
 	font-family: Monospace;
@@ -16,3 +16,5 @@
 	height: 600px;
 	width: 775px;
 }
+
+
