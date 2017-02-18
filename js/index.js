@@ -1,7 +1,6 @@
-
 <script language="JavaScript" type="text/javascript">
-  $(document).ready(function() {
-    $('#myCarousel').carousel({
-    //options here
-    });
-});
+  $(document).ready(function(){
+    $('.carousel').carousel({
+    })
+  });    
+</script>

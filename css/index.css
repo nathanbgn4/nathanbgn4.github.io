@@ -1,15 +1,16 @@
+#home {padding-top:50px;height:1000px;color: #fff; background-image: url("../images/mypicture.jpg"); background-size: 1920px 1080px;  background-repeat: no-repeat;}
 
-#home {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(blue, purple);}
+#oldhome {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(blue, purple);}
 
 #portfolio {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(purple, red);}
 
-#contact {padding-top:50px;height:500px;color: #fff; background: linear-gradient(red, orange);}
+#contact {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(red, orange);}
 
 .text_modifier{
 	font-family: Monospace;
 }
 
-.right{
+.myphoto{
 	position: absolute;
 	right: 50px;
 	top: 100px;
@@ -17,4 +18,13 @@
 	width: 775px;
 }
 
+#socialmediaheader{
+	padding-top: 10px;
+	
+}
 
+h1{
+	font-family: Monospace;
+	font-weight: Bolder;
+	text-decoration: Underline;
+}
