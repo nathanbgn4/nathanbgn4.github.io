@@ -1,4 +1,4 @@
-#home {padding-top:50px;height:1000px;color: #fff; background-image: url("../images/mypicture.jpg"); background-size: 1920px 1080px;  background-repeat: no-repeat;}
+#home {padding-top:50px;height:1000px;color: #fff; background-image: url("../images/portfoliopic.jpg"); background-size: 1920px 1080px;  background-repeat: no-repeat;}
 
 #oldhome {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(blue, purple);}
 
@@ -23,8 +23,29 @@
 	
 }
 
+
+
+#resumetextarea{
+	width: 100%; height: 100%;
+	resize: none;
+	overflow-y: scroll;
+}
+
+#resumebox{
+	position: absolute;
+	border-width: 2px; border-radius: 10px 10px 10px 10px; border-color: black; border-style: solid;
+	width: 45%; height: 85%;
+	left: 15px; top: 100px;
+	padding: 2px;
+}
+
 h1{
 	font-family: Monospace;
 	font-weight: Bolder;
 	text-decoration: Underline;
+}
+
+.resumestyling{
+	color: black;
+	ol{margin:0;padding:0}table td,table th{padding:0}.c1{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Libre Baskerville";font-style:normal}.c6{color:#000000;font-weight:700;text-decoration:underline;vertical-align:baseline;font-size:12pt;font-family:"Libre Baskerville";font-style:normal}.c2{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Libre Baskerville";font-style:normal}.c11{color:#000000;font-weight:700;text-decoration:underline;vertical-align:baseline;font-size:11pt;font-family:"Libre Baskerville";font-style:normal}.c7{color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10pt;font-family:"Times New Roman";font-style:normal}.c16{font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Times New Roman";font-style:normal}.c17{font-weight:400;text-decoration:none;vertical-align:baseline;font-size:18pt;font-family:"Libre Baskerville";font-style:normal}.c19{font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:"Times New Roman";font-style:normal}.c4{padding-top:0pt;padding-bottom:9pt;line-height:1.1375;text-align:left;height:10pt}.c9{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:center}.c18{padding-top:0pt;padding-bottom:9pt;line-height:1.1375;text-align:left}.c0{padding-top:0pt;padding-bottom:0pt;line-height:1.0;text-align:left}.c5{font-size:12pt;font-family:"Libre Baskerville";font-weight:400}.c14{font-size:11pt;font-family:"Libre Baskerville";font-weight:400}.c20{background-color:#ffffff;max-width:468pt;padding:72pt 72pt 72pt 72pt}.c10{font-family:"Libre Baskerville";font-weight:400;text-decoration:underline}.c13{orphans:2;widows:2}.c22{font-weight:400;font-family:"Libre Baskerville"}.c3{page-break-after:avoid;height:11pt}.c21{margin-left:18pt;text-indent:-18pt}.c8{height:10pt}.c15{color:#000000}.c12{page-break-after:avoid}.title{padding-top:24pt;color:#000000;font-weight:700;font-size:36pt;padding-bottom:6pt;font-family:"Times New Roman";line-height:1.1375;page-break-after:avoid;text-align:left}.subtitle{padding-top:18pt;color:#666666;font-size:24pt;padding-bottom:4pt;font-family:"Georgia";line-height:1.1375;page-break-after:avoid;font-style:italic;text-align:left}li{color:#000000;font-size:10pt;font-family:"Times New Roman"}p{margin:0;color:#000000;font-size:10pt;font-family:"Times New Roman"}h1{padding-top:24pt;color:#000000;font-weight:700;font-size:24pt;padding-bottom:6pt;font-family:"Times New Roman";line-height:1.1375;page-break-after:avoid;text-align:left}h2{padding-top:18pt;color:#000000;font-weight:700;font-size:18pt;padding-bottom:4pt;font-family:"Times New Roman";line-height:1.1375;page-break-after:avoid;text-align:left}h3{padding-top:14pt;color:#000000;font-weight:700;font-size:14pt;padding-bottom:4pt;font-family:"Times New Roman";line-height:1.1375;page-break-after:avoid;text-align:left}h4{padding-top:0pt;color:#000000;font-weight:700;font-size:11pt;padding-bottom:8pt;font-family:"Times New Roman";line-height:1.0;page-break-after:avoid;text-align:left}h5{padding-top:11pt;color:#000000;font-weight:700;font-size:11pt;padding-bottom:2pt;font-family:"Times New Roman";line-height:1.1375;page-break-after:avoid;text-align:left}h6{padding-top:10pt;color:#000000;font-weight:700;font-size:10pt;padding-bottom:2pt;font-family:"Times New Roman";line-height:1.1375;page-break-after:avoid;text-align:left}
 }
