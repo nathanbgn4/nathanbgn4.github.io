@@ -1,4 +1,4 @@
-#home {padding-top:50px;height:1000px;color: #fff; background: url(../images/mypic.png); background-size: 1920px 1080px; background-repeat: no-repeat;}
+.home_class{padding-top:50px;height:1000px;color: #fff; background: url("../images/mypic.png"); background-size: 1920px 1080px; background-repeat: no-repeat;}
 
 #oldhome {padding-top:50px;height:1000px;color: #fff; background: linear-gradient(blue, purple);}
 
